@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 20px;
+}
+
+.flex div{
+    width: 40%;
+    height: 80%;
+}
+
+.flex img{
+    height: 400px;
+}
